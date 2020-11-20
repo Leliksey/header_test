@@ -1,0 +1,124 @@
+@media screen and (max-width: 1500px) {
+    .header_input {
+        width: 20%;
+        margin-right: 1vh;
+    }
+    .header_block {
+        width: 80%;
+    }
+    .header_item_style {
+        font-size: 0.6em;
+        align-items: center;
+    }
+    .header_list {
+        max-width: 200px;
+        width: 100%;
+    }
+    .modal_input {
+        max-width: 100px;
+        width: 100%;
+    }
+    .circle {
+        width: 20px;
+       height: 20px;
+    }
+    .fab:before{
+        color: #fff; 
+        font-size: 12px;
+    }
+    .fas:before{
+        color: #fff;
+        font-size: 12px;
+    }
+    .modal_item {
+        font-size: 1vh;
+        line-height: 3.5vh;
+    }
+   
+}
+@media screen and (max-width: 850px) {
+    .block {
+       
+        left: 33%;
+        top: -4%;
+}
+}
+@media screen and (max-width: 450px) {
+    .header_list {
+        left: 40%;
+        top: 9%;
+        padding: 2vh;
+        line-height: 2vw;
+        width: 100px;
+    }
+    .circle {
+        width: 10px;
+        height: 10px;
+    }
+    .modal_item {
+        font-size: 2vh;
+        text-align: start;
+    }
+    .modal_input {
+        font-size: 1.5vh;
+        background-size: 5%;
+        text-align: left;
+        max-width: 50px;
+        width: 100%; 
+    }
+
+    .header_input {
+        display: none;
+    }
+    .header_block {
+        width: 90%;
+        text-align: center;
+    }
+    .header_item_style {
+        font-size: 0.6em;
+        align-items: center;
+    }
+   .header_button {
+       font-size: 3vw;
+   }
+   .input_search {
+        font-size: 3vw;
+   }
+   .item_medium_block {
+       width: 60%;
+   }
+   .item_right_block {
+       width: 40%;
+   }
+   .header_img {
+       width: 150%;
+    
+   }
+   .header_item_style {
+       width: 20px;
+   }
+   .header_search {
+       margin: 2vw -4vw;
+       padding-bottom: 0;
+       justify-content: end;
+   }
+   .input_search {
+       background-size: 4%;
+   }
+  .header_item {
+      max-width: 350px;
+      width: 100%;
+  }
+  .fab:before{
+
+    font-size: 5px;
+    vertical-align: 70%;
+}
+.fas:before{
+
+    font-size: 5px;
+    vertical-align: 70%;
+}
+
+  
+}
